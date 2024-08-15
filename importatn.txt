@@ -1,0 +1,9 @@
+
+conda create -p genv python==3.10 
+
+
+
+
+https://www.youtube.com/watch?v=uus5eLz6smA&t=2s
+
+recent 
