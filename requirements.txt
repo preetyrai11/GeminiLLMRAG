@@ -6,8 +6,10 @@ PyPDF2
 chromadb 
 faiss-cpu 
 langchain_google_genai 
-
+tools
 langchain-community
-
-
+fitz # PyMuPDF
+pdfplumber
+ 
+frontend
 -e . 
