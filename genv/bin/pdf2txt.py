@@ -1,4 +1,4 @@
-#!/Users/preetyrai/google_gemini_rag/genv/bin/python
+#!/Users/preetyrai/Google_Gemini_RAGG/genv/bin/python
 """A command line tool for extracting text and images from PDF and
 output it to plain text, html, xml or tags."""
 import argparse

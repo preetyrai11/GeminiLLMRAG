@@ -5,10 +5,10 @@
 # You can do whatever you want with this file.
 #
 
-prefix=/Users/preetyrai/google_gemini_rag/genv
-exec_prefix=/Users/preetyrai/google_gemini_rag/genv
-libdir=/Users/preetyrai/google_gemini_rag/genv/lib
-includedir=/Users/preetyrai/google_gemini_rag/genv/include
+prefix=/Users/preetyrai/Google_Gemini_RAGG/genv
+exec_prefix=/Users/preetyrai/Google_Gemini_RAGG/genv
+libdir=/Users/preetyrai/Google_Gemini_RAGG/genv/lib
+includedir=/Users/preetyrai/Google_Gemini_RAGG/genv/include
 
 Name: liblzma
 Description: General purpose data compression library

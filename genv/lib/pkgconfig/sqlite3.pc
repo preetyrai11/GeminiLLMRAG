@@ -1,6 +1,6 @@
 # Package Information for pkg-config
 
-prefix=/Users/preetyrai/google_gemini_rag/genv
+prefix=/Users/preetyrai/Google_Gemini_RAGG/genv
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 includedir=${prefix}/include

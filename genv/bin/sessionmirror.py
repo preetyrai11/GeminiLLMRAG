@@ -1,4 +1,4 @@
-#!/Users/preetyrai/google_gemini_rag/genv/bin/python
+#!/Users/preetyrai/Google_Gemini_RAGG/genv/bin/python
 '''
 The MIT License (MIT)
 

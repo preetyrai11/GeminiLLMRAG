@@ -1,4 +1,4 @@
-#!/Users/preetyrai/google_gemini_rag/genv/bin/python3.10
+#!/Users/preetyrai/Google_Gemini_RAGG/genv/bin/python3.10
 
 import pydoc
 if __name__ == '__main__':

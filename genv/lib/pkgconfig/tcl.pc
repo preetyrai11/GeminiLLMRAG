@@ -1,8 +1,8 @@
 # tcl pkg-config source file
 
-prefix=/Users/preetyrai/google_gemini_rag/genv
-exec_prefix=/Users/preetyrai/google_gemini_rag/genv
-libdir=/Users/preetyrai/google_gemini_rag/genv/lib
+prefix=/Users/preetyrai/Google_Gemini_RAGG/genv
+exec_prefix=/Users/preetyrai/Google_Gemini_RAGG/genv
+libdir=/Users/preetyrai/Google_Gemini_RAGG/genv/lib
 includedir=${prefix}/include
 libfile=libtcl8.6.dylib
 

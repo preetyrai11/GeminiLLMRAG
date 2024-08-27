@@ -1,4 +1,4 @@
-#!/Users/preetyrai/google_gemini_rag/genv/bin/python
+#!/Users/preetyrai/Google_Gemini_RAGG/genv/bin/python
 """Extract pdf structure in XML format"""
 import logging
 import os.path

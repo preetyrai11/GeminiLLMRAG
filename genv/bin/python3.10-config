@@ -1,4 +1,4 @@
-#!/Users/preetyrai/google_gemini_rag/genv/bin/python3.10
+#!/Users/preetyrai/Google_Gemini_RAGG/genv/bin/python3.10
 # -*- python -*-
 
 # Keep this script in sync with python-config.sh.in

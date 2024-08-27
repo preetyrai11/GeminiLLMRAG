@@ -1,8 +1,8 @@
-prefix=/Users/preetyrai/google_gemini_rag/genv
+prefix=/Users/preetyrai/Google_Gemini_RAGG/genv
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 toolexeclibdir=${libdir}
-includedir=/Users/preetyrai/google_gemini_rag/genv/include
+includedir=/Users/preetyrai/Google_Gemini_RAGG/genv/include
 
 Name: libffi
 Description: Library supporting Foreign Function Interfaces
