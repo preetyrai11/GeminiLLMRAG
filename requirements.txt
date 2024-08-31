@@ -10,6 +10,6 @@ tools
 langchain-community
 fitz # PyMuPDF
 pdfplumber
- 
+langchain_google_genai
 frontend
 -e . 
